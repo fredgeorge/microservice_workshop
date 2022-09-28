@@ -31,7 +31,7 @@ After a brief introduction, we will get the Sample MicroServices working with an
 event bus: RabbitMQ for this class. Then we will begin to layer on new requirements, 
 each addressed by one or more new MicroServices. You will work with a partner initially,
 although each of you should run the MicroServices on your machine, but sharing an
-instance of the event bus! If your partner uses a different language, __great__! It
+instance of the event bus! If your partner uses a different language, ___great___! It
 doesn't matter in MicroServices.
 
 After lunch, we will form larger teams, and start to work on harder problems. You will
@@ -105,5 +105,7 @@ instance of RabbitMQ to:
 
 - 56xx (xx = 73-85) for RabbitMQ access, and
 - 156xx (xx = 73-85) for management console
+
+This instructor will provide the pair with which port they should be sharing.
 
 For the admin console, RabbitMQ uses _guest_ for the user id and password.

@@ -1,0 +1,3 @@
+[submodule "rapids_rivers_in_csharp"]
+	path = rapids_rivers_in_csharp
+	url = git@github.com:fredgeorge/rapids_rivers_in_csharp.git
