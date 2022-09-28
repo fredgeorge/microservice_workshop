@@ -4,3 +4,6 @@
 [submodule "rapids_rivers_in_kotlin"]
 	path = rapids_rivers_in_kotlin
 	url = git@github.com:fredgeorge/rapids_rivers_in_kotlin.git
+[submodule "rapids_rivers_in_python"]
+	path = rapids_rivers_in_python
+	url = git@github.com:fredgeorge/rapids_rivers_in_python.git
