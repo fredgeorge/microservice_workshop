@@ -7,3 +7,6 @@
 [submodule "rapids_rivers_in_python"]
 	path = rapids_rivers_in_python
 	url = git@github.com:fredgeorge/rapids_rivers_in_python.git
+[submodule "rapids_rivers_in_typescript"]
+	path = rapids_rivers_in_typescript
+	url = git@github.com:fredgeorge/rapids_rivers_in_typescript.git
