@@ -1,3 +1,6 @@
 [submodule "rapids_rivers_in_csharp"]
 	path = rapids_rivers_in_csharp
 	url = git@github.com:fredgeorge/rapids_rivers_in_csharp.git
+[submodule "rapids_rivers_in_kotlin"]
+	path = rapids_rivers_in_kotlin
+	url = git@github.com:fredgeorge/rapids_rivers_in_kotlin.git
